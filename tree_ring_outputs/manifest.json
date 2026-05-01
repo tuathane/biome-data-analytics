@@ -1,0 +1,36 @@
+{
+  "api": "https://www.ncei.noaa.gov/access/paleo-search/study/search.json",
+  "dataPublisher": "NOAA",
+  "dataTypeId": "18",
+  "errors": [],
+  "growth_files": [],
+  "processed_studies": 5,
+  "reconstructionsOnly": "N",
+  "width_files": [
+    {
+      "points": 880,
+      "study": "23930",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/northamerica/usa/ak161-rwl-noaa.txt"
+    },
+    {
+      "points": 952,
+      "study": "23931",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/northamerica/usa/ak162-rwl-noaa.txt"
+    },
+    {
+      "points": 798,
+      "study": "23932",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/northamerica/usa/ak163-rwl-noaa.txt"
+    },
+    {
+      "points": 944,
+      "study": "23933",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/northamerica/usa/ak164-rwl-noaa.txt"
+    },
+    {
+      "points": 742,
+      "study": "22053",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/northamerica/usa/ak151-rwl-noaa.txt"
+    }
+  ]
+}

@@ -355,12 +355,14 @@ def write_csv(path: Path, rows: list[dict[str, Any]], first_columns: list[str]) 
 
 
 def write_manifest(path: Path, manifest: dict[str, Any]) -> None:
+    path.parent.mkdir(parents=True, exist_ok=True)
     path.write_text(json.dumps(manifest, indent=2, sort_keys=True), encoding="utf-8")
 
 
 def main() -> int:
     args = parse_args()
     output_dir = Path(args.output_dir)
+    output_dir.mkdir(parents=True, exist_ok=True)
     growth_points: list[dict[str, Any]] = []
     width_points: list[dict[str, Any]] = []
     manifest: dict[str, Any] = {
@@ -403,42 +405,42 @@ def main() -> int:
                 print(f"warning: skipped {file_url}: {exc}", file=sys.stderr)
 
     write_csv(
-        output_dir / "/annual/tree_ring_growth_year_over_year.csv",
+        output_dir / "annual" / "tree_ring_growth_year_over_year.csv",
         aggregate_changes(growth_points, "year", by_region=False),
         ["year"],
     )
     write_csv(
-        output_dir / "/annual/tree_ring_width_year_over_year.csv",
+        output_dir / "annual" / "tree_ring_width_year_over_year.csv",
         aggregate_levels(width_points, "year", by_region=False),
         ["year"],
     )
     write_csv(
-        output_dir / "/decade/tree_ring_growth_decade_over_decade.csv",
+        output_dir / "decade" / "tree_ring_growth_decade_over_decade.csv",
         aggregate_changes(growth_points, "decade", by_region=False),
         ["decade"],
     )
     write_csv(
-        output_dir / "/decade/tree_ring_width_decade_over_decade.csv",
+        output_dir / "decade" / "tree_ring_width_decade_over_decade.csv",
         aggregate_levels(width_points, "decade", by_region=False),
         ["decade"],
     )
     write_csv(
-        output_dir / "/regional_annual/tree_ring_growth_year_over_year_by_region.csv",
+        output_dir / "regional_annual" / "tree_ring_growth_year_over_year_by_region.csv",
         aggregate_changes(growth_points, "year", by_region=True),
         ["region", "year"],
     )
     write_csv(
-        output_dir / "/regional_annual/tree_ring_width_year_over_year_by_region.csv",
+        output_dir / "regional_annual" / "tree_ring_width_year_over_year_by_region.csv",
         aggregate_levels(width_points, "year", by_region=True),
         ["region", "year"],
     )
     write_csv(
-        output_dir / "/regional_decade/tree_ring_growth_decade_over_decade_by_region.csv",
+        output_dir / "regional_decade" / "tree_ring_growth_decade_over_decade_by_region.csv",
         aggregate_changes(growth_points, "decade", by_region=True),
         ["region", "decade"],
     )
     write_csv(
-        output_dir / "/regional_decade/tree_ring_width_decade_over_decade_by_region.csv",
+        output_dir / "regional_decade" / "tree_ring_width_decade_over_decade_by_region.csv",
         aggregate_levels(width_points, "decade", by_region=True),
         ["region", "decade"],
     )
