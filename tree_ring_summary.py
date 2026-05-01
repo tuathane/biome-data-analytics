@@ -20,7 +20,7 @@ from typing import Any, Iterable
 
 API_BASE = "https://www.ncei.noaa.gov/access/paleo-search/study/search.json"
 TREE_RING_DATA_TYPE_ID = "18"
-USER_AGENT = "biome-data-analytics-tree-ring-summary/0.00.0001"
+USER_AGENT = "biome-data-analytics-tree-ring-summary/0.00.0002"
 
 
 def parse_args() -> argparse.Namespace:
