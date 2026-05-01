@@ -4,8 +4,10 @@
   "dataTypeId": "18",
   "errors": [],
   "growth_files": [],
+  "growth_source": "auto",
   "processed_studies": 5,
   "reconstructionsOnly": "N",
+  "resolved_growth_source": "width",
   "width_files": [
     {
       "points": 880,
