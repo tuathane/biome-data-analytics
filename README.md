@@ -15,6 +15,15 @@ For a quick smoke test:
 python .\tree_ring_summary.py --max-studies 5 --output-dir .\tree_ring_outputs_sample
 ```
 
+Small smoke tests often hit only raw-width studies. By default, growth CSVs use
+NOAA chronology files when they are available and otherwise fall back to growth
+derived from raw-width changes. You can force either behavior:
+
+```powershell
+python .\tree_ring_summary.py --growth-source chronology
+python .\tree_ring_summary.py --growth-source width
+```
+
 The script uses the documented NOAA Paleo Search endpoint:
 
 `https://www.ncei.noaa.gov/access/paleo-search/study/search.json`
@@ -39,11 +48,11 @@ The script writes:
 Each CSV includes `count`, `mean`, `median`, `stddev`, `mean_minus_stddev`, and
 `mean_plus_stddev`.
 
-Growth is computed from NOAA chronology template files where the variable is
-`tree ring standardized growth index`, reconstructed from ring width, using the
-standard chronology method. Year-over-year and decade-over-decade growth values
-are changes from the previous contiguous year or decade within the same source
-series.
+Growth is computed as year-over-year or decade-over-decade change within the
+same source series. With the default `--growth-source auto`, the script uses NOAA
+chronology template files where the variable is `tree ring standardized growth
+index` when chronology files are present. If none are present, it derives growth
+from raw ring-width changes so small smoke tests still produce growth rows.
 
 Width is computed from NOAA raw measurement template files where variables are
 ring width measurements. Width files are summarized as measurement levels by
@@ -53,3 +62,16 @@ latewood width files when pure ring-width files are not available.
 Region summaries use the NOAA `locationName` path. The default `--region-level 2`
 turns a location such as `Continent>Europe>Western Europe>Switzerland` into
 `Western Europe`.
+
+## Visualizations
+
+After aggregate CSVs have been written, generate a separate HTML dashboard with:
+
+```powershell
+python .\visualize_tree_ring_aggregates.py --input-dir .\tree_ring_outputs --output-dir .\tree_ring_visualizations
+```
+
+Open `tree_ring_visualizations\index.html` in a browser to view annual,
+decadal, and regional SVG charts. The visualization script is intentionally not
+called by `tree_ring_summary.py`, so data collection and chart generation can be
+run independently.

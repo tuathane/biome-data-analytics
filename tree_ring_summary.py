@@ -20,7 +20,7 @@ from typing import Any, Iterable
 
 API_BASE = "https://www.ncei.noaa.gov/access/paleo-search/study/search.json"
 TREE_RING_DATA_TYPE_ID = "18"
-USER_AGENT = "biome-data-analytics-tree-ring-summary/0.00.0001"
+USER_AGENT = "biome-data-analytics-tree-ring-summary/0.00.0002"
 
 
 def parse_args() -> argparse.Namespace:
@@ -58,6 +58,16 @@ def parse_args() -> argparse.Namespace:
         "--include-earlywood-latewood",
         action="store_true",
         help="Include earlywood/latewood width files when pure ring width files are absent.",
+    )
+    parser.add_argument(
+        "--growth-source",
+        choices=("auto", "chronology", "width"),
+        default="auto",
+        help=(
+            "Source for growth-change CSVs. 'chronology' uses standardized growth index chronology files. "
+            "'width' derives growth as year-to-year or decade-to-decade changes in raw widths. "
+            "'auto' uses chronology files when found, otherwise falls back to raw widths."
+        ),
     )
     return parser.parse_args()
 
@@ -345,6 +355,18 @@ def aggregate_changes(points: list[dict[str, Any]], period: str, by_region: bool
     return rows
 
 
+def select_growth_change_points(
+    growth_points: list[dict[str, Any]], width_points: list[dict[str, Any]], growth_source: str
+) -> tuple[list[dict[str, Any]], str]:
+    if growth_source == "chronology":
+        return growth_points, "chronology"
+    if growth_source == "width":
+        return width_points, "width"
+    if growth_points:
+        return growth_points, "chronology"
+    return width_points, "width"
+
+
 def write_csv(path: Path, rows: list[dict[str, Any]], first_columns: list[str]) -> None:
     path.parent.mkdir(parents=True, exist_ok=True)
     fieldnames = first_columns + ["count", "mean", "median", "stddev", "mean_minus_stddev", "mean_plus_stddev"]
@@ -371,6 +393,7 @@ def main() -> int:
         "dataTypeId": TREE_RING_DATA_TYPE_ID,
         "reconstructionsOnly": "N",
         "processed_studies": 0,
+        "growth_source": args.growth_source,
         "growth_files": [],
         "width_files": [],
         "errors": [],
@@ -404,9 +427,14 @@ def main() -> int:
                 manifest["errors"].append({"study": study_id, "url": file_url, "error": str(exc)})
                 print(f"warning: skipped {file_url}: {exc}", file=sys.stderr)
 
+    growth_change_points, resolved_growth_source = select_growth_change_points(
+        growth_points, width_points, args.growth_source
+    )
+    manifest["resolved_growth_source"] = resolved_growth_source
+
     write_csv(
         output_dir / "annual" / "tree_ring_growth_year_over_year.csv",
-        aggregate_changes(growth_points, "year", by_region=False),
+        aggregate_changes(growth_change_points, "year", by_region=False),
         ["year"],
     )
     write_csv(
@@ -416,7 +444,7 @@ def main() -> int:
     )
     write_csv(
         output_dir / "decade" / "tree_ring_growth_decade_over_decade.csv",
-        aggregate_changes(growth_points, "decade", by_region=False),
+        aggregate_changes(growth_change_points, "decade", by_region=False),
         ["decade"],
     )
     write_csv(
@@ -426,7 +454,7 @@ def main() -> int:
     )
     write_csv(
         output_dir / "regional_annual" / "tree_ring_growth_year_over_year_by_region.csv",
-        aggregate_changes(growth_points, "year", by_region=True),
+        aggregate_changes(growth_change_points, "year", by_region=True),
         ["region", "year"],
     )
     write_csv(
@@ -436,7 +464,7 @@ def main() -> int:
     )
     write_csv(
         output_dir / "regional_decade" / "tree_ring_growth_decade_over_decade_by_region.csv",
-        aggregate_changes(growth_points, "decade", by_region=True),
+        aggregate_changes(growth_change_points, "decade", by_region=True),
         ["region", "decade"],
     )
     write_csv(
