@@ -3,11 +3,777 @@
   "dataPublisher": "NOAA",
   "dataTypeId": "18",
   "errors": [],
-  "growth_files": [],
+  "growth_files": [
+    {
+      "points": 142,
+      "study": "8483",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/chronologies/northamerica/mexico/mexi042-crn-noaa.txt"
+    },
+    {
+      "points": 129,
+      "study": "2657",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/chronologies/northamerica/usa/wv003-crn-noaa.txt"
+    },
+    {
+      "points": 366,
+      "study": "2658",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/chronologies/northamerica/usa/az556-crn-noaa.txt"
+    },
+    {
+      "points": 431,
+      "study": "2659",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/chronologies/northamerica/usa/az559-crn-noaa.txt"
+    },
+    {
+      "points": 262,
+      "study": "8484",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/chronologies/australia/newz085-crn-noaa.txt"
+    },
+    {
+      "points": 299,
+      "study": "8485",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/chronologies/australia/newz091-crn-noaa.txt"
+    },
+    {
+      "points": 192,
+      "study": "8486",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/chronologies/australia/newz086-crn-noaa.txt"
+    },
+    {
+      "points": 730,
+      "study": "8487",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/chronologies/australia/newz088-crn-noaa.txt"
+    },
+    {
+      "points": 402,
+      "study": "8488",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/chronologies/australia/newz090-crn-noaa.txt"
+    },
+    {
+      "points": 307,
+      "study": "8489",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/chronologies/australia/newz078-crn-noaa.txt"
+    },
+    {
+      "points": 499,
+      "study": "8490",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/chronologies/australia/newz079-crn-noaa.txt"
+    },
+    {
+      "points": 541,
+      "study": "8491",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/chronologies/australia/newz081-crn-noaa.txt"
+    },
+    {
+      "points": 205,
+      "study": "2662",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/chronologies/northamerica/canada/cana005-crn-noaa.txt"
+    },
+    {
+      "points": 802,
+      "study": "2664",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/chronologies/northamerica/canada/cana106-crn-noaa.txt"
+    },
+    {
+      "points": 194,
+      "study": "2665",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/chronologies/australia/newz052-crn-noaa.txt"
+    },
+    {
+      "points": 133,
+      "study": "8492",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/chronologies/northamerica/usa/ma016-crn-noaa.txt"
+    },
+    {
+      "points": 131,
+      "study": "2670",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/chronologies/europe/brit043-crn-noaa.txt"
+    },
+    {
+      "points": 277,
+      "study": "2671",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/chronologies/europe/brit044-crn-noaa.txt"
+    },
+    {
+      "points": 157,
+      "study": "2672",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/chronologies/europe/brit040-crn-noaa.txt"
+    },
+    {
+      "points": 324,
+      "study": "2673",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/chronologies/europe/brit008-crn-noaa.txt"
+    },
+    {
+      "points": 344,
+      "study": "2675",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/chronologies/europe/brit042-crn-noaa.txt"
+    },
+    {
+      "points": 1211,
+      "study": "22333",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/chronologies/northamerica/usa/nm606-crn-noaa.txt"
+    },
+    {
+      "points": 281,
+      "study": "13818",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/chronologies/northamerica/usa/nc022-crn-noaa.txt"
+    },
+    {
+      "points": 485,
+      "study": "8493",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/chronologies/northamerica/usa/ak090-crn-noaa.txt"
+    },
+    {
+      "points": 0,
+      "study": "13713",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/chronologies/northamerica/usa/ak120-crn-noaa.txt"
+    },
+    {
+      "points": 1119,
+      "study": "8494",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/chronologies/northamerica/usa/ak094-crn-noaa.txt"
+    },
+    {
+      "points": 153,
+      "study": "2688",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/chronologies/northamerica/usa/me033-crn-noaa.txt"
+    },
+    {
+      "points": 153,
+      "study": "2689",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/chronologies/northamerica/usa/me034-crn-noaa.txt"
+    },
+    {
+      "points": 107,
+      "study": "2690",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/chronologies/northamerica/usa/me035-crn-noaa.txt"
+    },
+    {
+      "points": 434,
+      "study": "2706",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/chronologies/europe/ital022-crn-noaa.txt"
+    },
+    {
+      "points": 203,
+      "study": "2711",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/chronologies/europe/germ016-crn-noaa.txt"
+    },
+    {
+      "points": 203,
+      "study": "2712",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/chronologies/europe/germ014-crn-noaa.txt"
+    },
+    {
+      "points": 238,
+      "study": "2717",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/chronologies/europe/pola003-crn-noaa.txt"
+    },
+    {
+      "points": 241,
+      "study": "5993",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/chronologies/northamerica/usa/mt117-crn-noaa.txt"
+    },
+    {
+      "points": 161,
+      "study": "2718",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/chronologies/northamerica/usa/ut523-crn-noaa.txt"
+    },
+    {
+      "points": 193,
+      "study": "2719",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/chronologies/northamerica/usa/mo009-crn-noaa.txt"
+    },
+    {
+      "points": 200,
+      "study": "5499",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/chronologies/europe/swit183-crn-noaa.txt"
+    },
+    {
+      "points": 303,
+      "study": "5500",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/chronologies/europe/swit182-crn-noaa.txt"
+    },
+    {
+      "points": 208,
+      "study": "6118",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/chronologies/europe/swit185-crn-noaa.txt"
+    },
+    {
+      "points": 272,
+      "study": "6119",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/chronologies/europe/swit186-crn-noaa.txt"
+    },
+    {
+      "points": 250,
+      "study": "2735",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/chronologies/europe/swit180-crn-noaa.txt"
+    },
+    {
+      "points": 295,
+      "study": "5501",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/chronologies/northamerica/usa/co635-crn-noaa.txt"
+    },
+    {
+      "points": 452,
+      "study": "5502",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/chronologies/northamerica/usa/co633-crn-noaa.txt"
+    },
+    {
+      "points": 257,
+      "study": "5503",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/chronologies/northamerica/usa/co634-crn-noaa.txt"
+    },
+    {
+      "points": 332,
+      "study": "2736",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/chronologies/europe/swit181-crn-noaa.txt"
+    },
+    {
+      "points": 273,
+      "study": "2737",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/chronologies/europe/swit179-crn-noaa.txt"
+    },
+    {
+      "points": 115,
+      "study": "6120",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/chronologies/europe/swit187-crn-noaa.txt"
+    },
+    {
+      "points": 194,
+      "study": "14105",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/chronologies/europe/swit269-crn-noaa.txt"
+    },
+    {
+      "points": 235,
+      "study": "8495",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/chronologies/europe/swit189-crn-noaa.txt"
+    },
+    {
+      "points": 466,
+      "study": "16841",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/chronologies/europe/swit280-crn-noaa.txt"
+    },
+    {
+      "points": 342,
+      "study": "16840",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/chronologies/europe/swit279-crn-noaa.txt"
+    },
+    {
+      "points": 231,
+      "study": "8496",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/chronologies/europe/swit190-crn-noaa.txt"
+    },
+    {
+      "points": 338,
+      "study": "8497",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/chronologies/europe/swit191-crn-noaa.txt"
+    },
+    {
+      "points": 306,
+      "study": "16842",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/chronologies/europe/swit281-crn-noaa.txt"
+    },
+    {
+      "points": 252,
+      "study": "16843",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/chronologies/europe/swit282-crn-noaa.txt"
+    },
+    {
+      "points": 327,
+      "study": "5504",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/chronologies/europe/swit184-crn-noaa.txt"
+    },
+    {
+      "points": 134,
+      "study": "14106",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/chronologies/europe/swit270-crn-noaa.txt"
+    },
+    {
+      "points": 142,
+      "study": "6121",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/chronologies/europe/swit188-crn-noaa.txt"
+    },
+    {
+      "points": 273,
+      "study": "14108",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/chronologies/europe/swit272-crn-noaa.txt"
+    },
+    {
+      "points": 271,
+      "study": "14109",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/chronologies/europe/swit273-crn-noaa.txt"
+    },
+    {
+      "points": 321,
+      "study": "14110",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/chronologies/europe/swit274-crn-noaa.txt"
+    },
+    {
+      "points": 312,
+      "study": "14111",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/chronologies/europe/swit275-crn-noaa.txt"
+    },
+    {
+      "points": 328,
+      "study": "16844",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/chronologies/europe/swit283-crn-noaa.txt"
+    },
+    {
+      "points": 200,
+      "study": "14107",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/chronologies/europe/swit271-crn-noaa.txt"
+    },
+    {
+      "points": 147,
+      "study": "14112",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/chronologies/europe/swit276-crn-noaa.txt"
+    },
+    {
+      "points": 407,
+      "study": "8498",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/chronologies/europe/swit192-crn-noaa.txt"
+    },
+    {
+      "points": 294,
+      "study": "8499",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/chronologies/europe/swit193-crn-noaa.txt"
+    },
+    {
+      "points": 712,
+      "study": "2738",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/chronologies/europe/germ032-crn-noaa.txt"
+    },
+    {
+      "points": 241,
+      "study": "2739",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/chronologies/europe/germ021-crn-noaa.txt"
+    },
+    {
+      "points": 231,
+      "study": "2740",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/chronologies/europe/germ022-crn-noaa.txt"
+    },
+    {
+      "points": 262,
+      "study": "2741",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/chronologies/europe/germ023-crn-noaa.txt"
+    },
+    {
+      "points": 816,
+      "study": "2742",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/chronologies/europe/germ024-crn-noaa.txt"
+    },
+    {
+      "points": 278,
+      "study": "2743",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/chronologies/europe/germ025-crn-noaa.txt"
+    },
+    {
+      "points": 338,
+      "study": "2744",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/chronologies/europe/germ026-crn-noaa.txt"
+    },
+    {
+      "points": 625,
+      "study": "2745",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/chronologies/europe/fran031-crn-noaa.txt"
+    },
+    {
+      "points": 578,
+      "study": "2746",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/chronologies/europe/germ027-crn-noaa.txt"
+    },
+    {
+      "points": 300,
+      "study": "2747",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/chronologies/europe/germ028-crn-noaa.txt"
+    },
+    {
+      "points": 470,
+      "study": "2748",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/chronologies/europe/germ029-crn-noaa.txt"
+    },
+    {
+      "points": 424,
+      "study": "2749",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/chronologies/europe/germ030-crn-noaa.txt"
+    },
+    {
+      "points": 388,
+      "study": "2750",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/chronologies/europe/germ031-crn-noaa.txt"
+    },
+    {
+      "points": 258,
+      "study": "2751",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/chronologies/northamerica/usa/az509-crn-noaa.txt"
+    },
+    {
+      "points": 238,
+      "study": "2752",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/chronologies/europe/ital001-crn-noaa.txt"
+    },
+    {
+      "points": 153,
+      "study": "2753",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/chronologies/europe/ital004-crn-noaa.txt"
+    },
+    {
+      "points": 436,
+      "study": "2754",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/chronologies/northamerica/usa/ca609-crn-noaa.txt"
+    },
+    {
+      "points": 436,
+      "study": "2755",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/chronologies/northamerica/mexico/mexi020-crn-noaa.txt"
+    },
+    {
+      "points": 210,
+      "study": "2756",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/chronologies/northamerica/mexico/mexi019-crn-noaa.txt"
+    },
+    {
+      "points": 336,
+      "study": "2757",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/chronologies/northamerica/usa/ca610-crn-noaa.txt"
+    },
+    {
+      "points": 445,
+      "study": "2758",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/chronologies/northamerica/mexico/mexi021-crn-noaa.txt"
+    },
+    {
+      "points": 111,
+      "study": "2759",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/chronologies/europe/ital002-crn-noaa.txt"
+    },
+    {
+      "points": 128,
+      "study": "2760",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/chronologies/europe/ital003-crn-noaa.txt"
+    },
+    {
+      "points": 336,
+      "study": "2762",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/chronologies/northamerica/usa/ca613-crn-noaa.txt"
+    },
+    {
+      "points": 166,
+      "study": "2763",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/chronologies/northamerica/usa/ca598-crn-noaa.txt"
+    },
+    {
+      "points": 168,
+      "study": "2764",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/chronologies/northamerica/usa/ca599-crn-noaa.txt"
+    },
+    {
+      "points": 110,
+      "study": "2765",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/chronologies/northamerica/usa/ca600-crn-noaa.txt"
+    },
+    {
+      "points": 188,
+      "study": "2766",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/chronologies/northamerica/usa/ca601-crn-noaa.txt"
+    },
+    {
+      "points": 321,
+      "study": "2767",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/chronologies/southamerica/arge022-crn-noaa.txt"
+    },
+    {
+      "points": 348,
+      "study": "2768",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/chronologies/southamerica/arge066-crn-noaa.txt"
+    },
+    {
+      "points": 272,
+      "study": "2769",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/chronologies/southamerica/arge031-crn-noaa.txt"
+    },
+    {
+      "points": 236,
+      "study": "2770",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/chronologies/southamerica/arge026-crn-noaa.txt"
+    },
+    {
+      "points": 241,
+      "study": "2771",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/chronologies/southamerica/arge028-crn-noaa.txt"
+    },
+    {
+      "points": 244,
+      "study": "2772",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/chronologies/southamerica/arge047-crn-noaa.txt"
+    },
+    {
+      "points": 321,
+      "study": "2773",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/chronologies/southamerica/arge036-crn-noaa.txt"
+    },
+    {
+      "points": 261,
+      "study": "2774",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/chronologies/southamerica/arge033-crn-noaa.txt"
+    },
+    {
+      "points": 286,
+      "study": "2775",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/chronologies/southamerica/arge040-crn-noaa.txt"
+    },
+    {
+      "points": 263,
+      "study": "2776",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/chronologies/southamerica/arge034-crn-noaa.txt"
+    },
+    {
+      "points": 410,
+      "study": "2777",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/chronologies/southamerica/arge043-crn-noaa.txt"
+    },
+    {
+      "points": 256,
+      "study": "2778",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/chronologies/southamerica/arge046-crn-noaa.txt"
+    },
+    {
+      "points": 324,
+      "study": "2779",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/chronologies/southamerica/arge038-crn-noaa.txt"
+    },
+    {
+      "points": 327,
+      "study": "2780",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/chronologies/southamerica/arge052-crn-noaa.txt"
+    },
+    {
+      "points": 261,
+      "study": "2781",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/chronologies/southamerica/arge051-crn-noaa.txt"
+    },
+    {
+      "points": 1534,
+      "study": "2782",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/chronologies/southamerica/arge030-crn-noaa.txt"
+    },
+    {
+      "points": 248,
+      "study": "2783",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/chronologies/southamerica/arge055-crn-noaa.txt"
+    },
+    {
+      "points": 282,
+      "study": "2784",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/chronologies/southamerica/arge059-crn-noaa.txt"
+    },
+    {
+      "points": 459,
+      "study": "2785",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/chronologies/southamerica/arge060-crn-noaa.txt"
+    },
+    {
+      "points": 328,
+      "study": "2786",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/chronologies/southamerica/arge061-crn-noaa.txt"
+    },
+    {
+      "points": 392,
+      "study": "2787",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/chronologies/southamerica/arge062-crn-noaa.txt"
+    },
+    {
+      "points": 271,
+      "study": "2788",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/chronologies/asia/indi019-crn-noaa.txt"
+    },
+    {
+      "points": 245,
+      "study": "2789",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/chronologies/asia/indi018-crn-noaa.txt"
+    },
+    {
+      "points": 317,
+      "study": "2790",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/chronologies/asia/indi017-crn-noaa.txt"
+    },
+    {
+      "points": 195,
+      "study": "2791",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/chronologies/asia/indi020-crn-noaa.txt"
+    },
+    {
+      "points": 334,
+      "study": "2792",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/chronologies/asia/indi021-crn-noaa.txt"
+    },
+    {
+      "points": 278,
+      "study": "2793",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/chronologies/asia/indi010-crn-noaa.txt"
+    },
+    {
+      "points": 214,
+      "study": "2794",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/chronologies/asia/indi012-crn-noaa.txt"
+    },
+    {
+      "points": 313,
+      "study": "2795",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/chronologies/asia/indi013-crn-noaa.txt"
+    },
+    {
+      "points": 400,
+      "study": "2796",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/chronologies/asia/indi015-crn-noaa.txt"
+    },
+    {
+      "points": 305,
+      "study": "2797",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/chronologies/asia/indi014-crn-noaa.txt"
+    },
+    {
+      "points": 266,
+      "study": "2798",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/chronologies/asia/indi016-crn-noaa.txt"
+    },
+    {
+      "points": 188,
+      "study": "2799",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/chronologies/asia/indi011-crn-noaa.txt"
+    },
+    {
+      "points": 0,
+      "study": "13938",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/chronologies/australia/newz111-crn-noaa.txt"
+    },
+    {
+      "points": 0,
+      "study": "13937",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/chronologies/australia/newz110-crn-noaa.txt"
+    },
+    {
+      "points": 0,
+      "study": "13941",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/chronologies/australia/newz114-crn-noaa.txt"
+    },
+    {
+      "points": 315,
+      "study": "13908",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/chronologies/australia/newz093-crn-noaa.txt"
+    },
+    {
+      "points": 0,
+      "study": "13940",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/chronologies/australia/newz113-crn-noaa.txt"
+    },
+    {
+      "points": 0,
+      "study": "13916",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/chronologies/australia/newz101-crn-noaa.txt"
+    },
+    {
+      "points": 0,
+      "study": "13917",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/chronologies/australia/newz102-crn-noaa.txt"
+    },
+    {
+      "points": 194,
+      "study": "13909",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/chronologies/australia/newz094-crn-noaa.txt"
+    },
+    {
+      "points": 0,
+      "study": "13915",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/chronologies/australia/newz100-crn-noaa.txt"
+    },
+    {
+      "points": 0,
+      "study": "13913",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/chronologies/australia/newz098-crn-noaa.txt"
+    },
+    {
+      "points": 0,
+      "study": "13932",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/chronologies/australia/newz107-crn-noaa.txt"
+    },
+    {
+      "points": 193,
+      "study": "2800",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/chronologies/europe/brit039-crn-noaa.txt"
+    },
+    {
+      "points": 340,
+      "study": "2801",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/chronologies/europe/brit038-crn-noaa.txt"
+    },
+    {
+      "points": 477,
+      "study": "2802",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/chronologies/europe/brit037-crn-noaa.txt"
+    },
+    {
+      "points": 761,
+      "study": "2803",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/chronologies/europe/brit036-crn-noaa.txt"
+    },
+    {
+      "points": 0,
+      "study": "13918",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/chronologies/australia/newz103-crn-noaa.txt"
+    },
+    {
+      "points": 0,
+      "study": "13933",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/chronologies/australia/newz108-crn-noaa.txt"
+    },
+    {
+      "points": 274,
+      "study": "2804",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/chronologies/northamerica/usa/az071-crn-noaa.txt"
+    },
+    {
+      "points": 372,
+      "study": "2805",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/chronologies/northamerica/usa/az069-crn-noaa.txt"
+    },
+    {
+      "points": 372,
+      "study": "2806",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/chronologies/northamerica/usa/az072-crn-noaa.txt"
+    },
+    {
+      "points": 609,
+      "study": "2807",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/chronologies/europe/germ019-crn-noaa.txt"
+    },
+    {
+      "points": 0,
+      "study": "13928",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/chronologies/australia/newz104-crn-noaa.txt"
+    },
+    {
+      "points": 355,
+      "study": "2808",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/chronologies/northamerica/canada/cana113-crn-noaa.txt"
+    },
+    {
+      "points": 428,
+      "study": "2809",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/chronologies/northamerica/usa/az554-crn-noaa.txt"
+    },
+    {
+      "points": 480,
+      "study": "2810",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/chronologies/northamerica/usa/or043-crn-noaa.txt"
+    }
+  ],
   "growth_source": "auto",
-  "processed_studies": 5,
+  "processed_studies": 600,
   "reconstructionsOnly": "N",
-  "resolved_growth_source": "width",
+  "resolved_growth_source": "chronology",
   "width_files": [
     {
       "points": 880,
@@ -33,6 +799,2411 @@
       "points": 742,
       "study": "22053",
       "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/northamerica/usa/ak151-rwl-noaa.txt"
+    },
+    {
+      "points": 600,
+      "study": "22054",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/northamerica/usa/ak152-rwl-noaa.txt"
+    },
+    {
+      "points": 1618,
+      "study": "8483",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/northamerica/mexico/mexi042-rwl-noaa.txt"
+    },
+    {
+      "points": 3621,
+      "study": "2657",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/northamerica/usa/wv003-rwl-noaa.txt"
+    },
+    {
+      "points": 9498,
+      "study": "2658",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/northamerica/usa/az556-rwl-noaa.txt"
+    },
+    {
+      "points": 14505,
+      "study": "2659",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/northamerica/usa/az559-rwl-noaa.txt"
+    },
+    {
+      "points": 972,
+      "study": "40477",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/southamerica/bra047-rwl-noaa.txt"
+    },
+    {
+      "points": 2247,
+      "study": "40482",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/southamerica/bra052-rwl-noaa.txt"
+    },
+    {
+      "points": 3772,
+      "study": "40478",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/southamerica/bra048-rwl-noaa.txt"
+    },
+    {
+      "points": 2737,
+      "study": "40481",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/southamerica/bra051-rwl-noaa.txt"
+    },
+    {
+      "points": 438,
+      "study": "40479",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/southamerica/bra049-rwl-noaa.txt"
+    },
+    {
+      "points": 7469,
+      "study": "40480",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/southamerica/bra050-rwl-noaa.txt"
+    },
+    {
+      "points": 24151,
+      "study": "29553",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/asia/paki041-rwl-noaa.txt"
+    },
+    {
+      "points": 2334,
+      "study": "8484",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/australia/newz085-rwl-noaa.txt"
+    },
+    {
+      "points": 5076,
+      "study": "8485",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/australia/newz091-rwl-noaa.txt"
+    },
+    {
+      "points": 2828,
+      "study": "8486",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/australia/newz086-rwl-noaa.txt"
+    },
+    {
+      "points": 8907,
+      "study": "8487",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/australia/newz088-rwl-noaa.txt"
+    },
+    {
+      "points": 2867,
+      "study": "8488",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/australia/newz090-rwl-noaa.txt"
+    },
+    {
+      "points": 2858,
+      "study": "8489",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/australia/newz078-rwl-noaa.txt"
+    },
+    {
+      "points": 9107,
+      "study": "8490",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/australia/newz079-rwl-noaa.txt"
+    },
+    {
+      "points": 10382,
+      "study": "8491",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/australia/newz081-rwl-noaa.txt"
+    },
+    {
+      "points": 10085,
+      "study": "2660",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/turk033-rwl-noaa.txt"
+    },
+    {
+      "points": 12040,
+      "study": "2661",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/turk034-rwl-noaa.txt"
+    },
+    {
+      "points": 6641,
+      "study": "27432",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/northamerica/canada/cana589-rwl-noaa.txt"
+    },
+    {
+      "points": 1242,
+      "study": "40543",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/centralamerica/pan001-rwl-noaa.txt"
+    },
+    {
+      "points": 2401,
+      "study": "40545",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/centralamerica/pan003-rwl-noaa.txt"
+    },
+    {
+      "points": 3361,
+      "study": "40544",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/centralamerica/pan002-rwl-noaa.txt"
+    },
+    {
+      "points": 2084,
+      "study": "10475",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/spai067-rwl-noaa.txt"
+    },
+    {
+      "points": 658,
+      "study": "10473",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/spai065-rwl-noaa.txt"
+    },
+    {
+      "points": 656,
+      "study": "10474",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/spai066-rwl-noaa.txt"
+    },
+    {
+      "points": 658,
+      "study": "10472",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/spai064-rwl-noaa.txt"
+    },
+    {
+      "points": 0,
+      "study": "13736",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/australia/ausl027-rwl-noaa.txt"
+    },
+    {
+      "points": 0,
+      "study": "13735",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/australia/ausl026-rwl-noaa.txt"
+    },
+    {
+      "points": 0,
+      "study": "13745",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/australia/ausl033-rwl-noaa.txt"
+    },
+    {
+      "points": 85750,
+      "study": "22545",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/australia/ausl050-rwl-noaa.txt"
+    },
+    {
+      "points": 50246,
+      "study": "20694",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/australia/ausl041-rwl-noaa.txt"
+    },
+    {
+      "points": 2622,
+      "study": "31414",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/australia/ausl056-rwl-noaa.txt"
+    },
+    {
+      "points": 15991,
+      "study": "20691",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/australia/ausl039-rwl-noaa.txt"
+    },
+    {
+      "points": 1558,
+      "study": "31415",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/australia/ausl057-rwl-noaa.txt"
+    },
+    {
+      "points": 27000,
+      "study": "20695",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/australia/ausl042-rwl-noaa.txt"
+    },
+    {
+      "points": 32751,
+      "study": "22113",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/australia/ausl048-rwl-noaa.txt"
+    },
+    {
+      "points": 9250,
+      "study": "16808",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/northamerica/usa/ut531-rwl-noaa.txt"
+    },
+    {
+      "points": 4693,
+      "study": "31416",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/australia/ausl058-rwl-noaa.txt"
+    },
+    {
+      "points": 6550,
+      "study": "43753",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/northamerica/usa/ut588-rwl-noaa.txt"
+    },
+    {
+      "points": 0,
+      "study": "13744",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/australia/ausl032-rwl-noaa.txt"
+    },
+    {
+      "points": 4644,
+      "study": "31417",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/australia/ausl059-rwl-noaa.txt"
+    },
+    {
+      "points": 7626,
+      "study": "22112",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/australia/ausl047-rwl-noaa.txt"
+    },
+    {
+      "points": 38075,
+      "study": "20003",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/australia/ausl038-rwl-noaa.txt"
+    },
+    {
+      "points": 8550,
+      "study": "22071",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/australia/ausl044-rwl-noaa.txt"
+    },
+    {
+      "points": 0,
+      "study": "13739",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/australia/ausl030-rwl-noaa.txt"
+    },
+    {
+      "points": 39934,
+      "study": "20693",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/australia/ausl040-rwl-noaa.txt"
+    },
+    {
+      "points": 22895,
+      "study": "22072",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/australia/ausl045-rwl-noaa.txt"
+    },
+    {
+      "points": 147303,
+      "study": "23633",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/australia/ausl053-rwl-noaa.txt"
+    },
+    {
+      "points": 5297,
+      "study": "27376",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/australia/ausl055-rwl-noaa.txt"
+    },
+    {
+      "points": 21141,
+      "study": "16815",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/northamerica/usa/ut538-rwl-noaa.txt"
+    },
+    {
+      "points": 10547,
+      "study": "43744",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/northamerica/usa/id043-rwl-noaa.txt"
+    },
+    {
+      "points": 0,
+      "study": "13737",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/australia/ausl028-rwl-noaa.txt"
+    },
+    {
+      "points": 12052,
+      "study": "43760",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/northamerica/usa/ut595-rwl-noaa.txt"
+    },
+    {
+      "points": 0,
+      "study": "13734",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/australia/ausl025-rwl-noaa.txt"
+    },
+    {
+      "points": 12002,
+      "study": "43761",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/northamerica/usa/ut596-rwl-noaa.txt"
+    },
+    {
+      "points": 16408,
+      "study": "43759",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/northamerica/usa/ut594-rwl-noaa.txt"
+    },
+    {
+      "points": 4673,
+      "study": "43758",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/northamerica/usa/ut593-rwl-noaa.txt"
+    },
+    {
+      "points": 0,
+      "study": "13740",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/australia/ausl031-rwl-noaa.txt"
+    },
+    {
+      "points": 13623,
+      "study": "43745",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/northamerica/usa/wy079-rwl-noaa.txt"
+    },
+    {
+      "points": 80153,
+      "study": "44501",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/australia/aus118-rwl-noaa.txt"
+    },
+    {
+      "points": 1957,
+      "study": "31418",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/australia/ausl060-rwl-noaa.txt"
+    },
+    {
+      "points": 44231,
+      "study": "20696",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/australia/ausl043-rwl-noaa.txt"
+    },
+    {
+      "points": 23280,
+      "study": "22337",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/australia/ausl049-rwl-noaa.txt"
+    },
+    {
+      "points": 0,
+      "study": "13746",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/australia/ausl034-rwl-noaa.txt"
+    },
+    {
+      "points": 0,
+      "study": "13747",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/australia/ausl035-rwl-noaa.txt"
+    },
+    {
+      "points": 12145,
+      "study": "43747",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/northamerica/usa/id046-rwl-noaa.txt"
+    },
+    {
+      "points": 0,
+      "study": "13738",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/australia/ausl029-rwl-noaa.txt"
+    },
+    {
+      "points": 16919,
+      "study": "43748",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/northamerica/usa/id047-rwl-noaa.txt"
+    },
+    {
+      "points": 11959,
+      "study": "43763",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/northamerica/usa/ut598-rwl-noaa.txt"
+    },
+    {
+      "points": 5719,
+      "study": "2662",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/northamerica/canada/cana005-rwl-noaa.txt"
+    },
+    {
+      "points": 6139,
+      "study": "27074",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/northamerica/usa/ny049-rwl-noaa.txt"
+    },
+    {
+      "points": 3292,
+      "study": "2663",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/swed304-rwl-noaa.txt"
+    },
+    {
+      "points": 13250,
+      "study": "35581",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/asia/russ303-rwl-noaa.txt"
+    },
+    {
+      "points": 134,
+      "study": "35582",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/asia/russ304-rwl-noaa.txt"
+    },
+    {
+      "points": 6661,
+      "study": "35578",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/asia/russ306-rwl-noaa.txt"
+    },
+    {
+      "points": 6956,
+      "study": "35575",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/asia/russ309-rwl-noaa.txt"
+    },
+    {
+      "points": 2622,
+      "study": "35593",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/asia/russ310-rwl-noaa.txt"
+    },
+    {
+      "points": 2948,
+      "study": "35594",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/asia/russ311-rwl-noaa.txt"
+    },
+    {
+      "points": 1504,
+      "study": "35595",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/asia/russ312-rwl-noaa.txt"
+    },
+    {
+      "points": 6573,
+      "study": "35596",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/asia/russ313-rwl-noaa.txt"
+    },
+    {
+      "points": 1118,
+      "study": "29752",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/northamerica/usa/ak174-rwl-noaa.txt"
+    },
+    {
+      "points": 1164,
+      "study": "29753",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/northamerica/usa/ak175-rwl-noaa.txt"
+    },
+    {
+      "points": 1532,
+      "study": "29754",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/northamerica/usa/ak176-rwl-noaa.txt"
+    },
+    {
+      "points": 3086,
+      "study": "38342",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/northamerica/usa/or129-rwl-noaa.txt"
+    },
+    {
+      "points": 6689,
+      "study": "38340",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/northamerica/usa/id024-rwl-noaa.txt"
+    },
+    {
+      "points": 5500,
+      "study": "38349",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/northamerica/usa/wa165-rwl-noaa.txt"
+    },
+    {
+      "points": 3551,
+      "study": "38347",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/northamerica/usa/wa163-rwl-noaa.txt"
+    },
+    {
+      "points": 2772,
+      "study": "38348",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/northamerica/usa/wa164-rwl-noaa.txt"
+    },
+    {
+      "points": 3870,
+      "study": "38341",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/northamerica/usa/id025-rwl-noaa.txt"
+    },
+    {
+      "points": 3159,
+      "study": "38344",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/northamerica/usa/or131-rwl-noaa.txt"
+    },
+    {
+      "points": 3603,
+      "study": "38343",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/northamerica/usa/or130-rwl-noaa.txt"
+    },
+    {
+      "points": 5365,
+      "study": "38345",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/northamerica/usa/wa161-rwl-noaa.txt"
+    },
+    {
+      "points": 2333,
+      "study": "38346",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/northamerica/usa/wa162-rwl-noaa.txt"
+    },
+    {
+      "points": 2625,
+      "study": "38350",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/northamerica/usa/wa166-rwl-noaa.txt"
+    },
+    {
+      "points": 14814,
+      "study": "25190",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/northamerica/usa/or098-rwl-noaa.txt"
+    },
+    {
+      "points": 24755,
+      "study": "25192",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/northamerica/usa/or100-rwl-noaa.txt"
+    },
+    {
+      "points": 18347,
+      "study": "25191",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/northamerica/usa/or099-rwl-noaa.txt"
+    },
+    {
+      "points": 14549,
+      "study": "25193",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/northamerica/usa/or101-rwl-noaa.txt"
+    },
+    {
+      "points": 17599,
+      "study": "25196",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/northamerica/usa/or104-rwl-noaa.txt"
+    },
+    {
+      "points": 17355,
+      "study": "25195",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/northamerica/usa/or103-rwl-noaa.txt"
+    },
+    {
+      "points": 22039,
+      "study": "25194",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/northamerica/usa/or102-rwl-noaa.txt"
+    },
+    {
+      "points": 1980,
+      "study": "40470",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/southamerica/bra040-rwl-noaa.txt"
+    },
+    {
+      "points": 2026,
+      "study": "40473",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/southamerica/bra043-rwl-noaa.txt"
+    },
+    {
+      "points": 366,
+      "study": "40447",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/southamerica/bra017-rwl-noaa.txt"
+    },
+    {
+      "points": 243,
+      "study": "40455",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/southamerica/bra025-rwl-noaa.txt"
+    },
+    {
+      "points": 482,
+      "study": "40460",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/southamerica/bra030-rwl-noaa.txt"
+    },
+    {
+      "points": 303,
+      "study": "40446",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/southamerica/bra016-rwl-noaa.txt"
+    },
+    {
+      "points": 299,
+      "study": "40459",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/southamerica/bra029-rwl-noaa.txt"
+    },
+    {
+      "points": 2770,
+      "study": "40469",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/southamerica/bra039-rwl-noaa.txt"
+    },
+    {
+      "points": 1980,
+      "study": "40472",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/southamerica/bra042-rwl-noaa.txt"
+    },
+    {
+      "points": 1133,
+      "study": "40468",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/southamerica/bra038-rwl-noaa.txt"
+    },
+    {
+      "points": 1683,
+      "study": "40471",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/southamerica/bra041-rwl-noaa.txt"
+    },
+    {
+      "points": 8902,
+      "study": "16497",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/northamerica/canada/cana390-rwl-noaa.txt"
+    },
+    {
+      "points": 5291,
+      "study": "16601",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/northamerica/canada/cana442-rwl-noaa.txt"
+    },
+    {
+      "points": 8897,
+      "study": "16499",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/northamerica/canada/cana392-rwl-noaa.txt"
+    },
+    {
+      "points": 9608,
+      "study": "16500",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/northamerica/canada/cana393-rwl-noaa.txt"
+    },
+    {
+      "points": 11974,
+      "study": "16495",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/northamerica/canada/cana388-rwl-noaa.txt"
+    },
+    {
+      "points": 7946,
+      "study": "16613",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/northamerica/canada/cana454-rwl-noaa.txt"
+    },
+    {
+      "points": 12880,
+      "study": "16614",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/northamerica/canada/cana455-rwl-noaa.txt"
+    },
+    {
+      "points": 24096,
+      "study": "2664",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/northamerica/canada/cana106-rwl-noaa.txt"
+    },
+    {
+      "points": 5490,
+      "study": "28311",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/brit074-rwl-noaa.txt"
+    },
+    {
+      "points": 4969,
+      "study": "28313",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/brit076-rwl-noaa.txt"
+    },
+    {
+      "points": 1190,
+      "study": "28320",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/brit083-rwl-noaa.txt"
+    },
+    {
+      "points": 2795,
+      "study": "28310",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/brit073-rwl-noaa.txt"
+    },
+    {
+      "points": 452,
+      "study": "28329",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/brit092-rwl-noaa.txt"
+    },
+    {
+      "points": 4845,
+      "study": "28315",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/brit078-rwl-noaa.txt"
+    },
+    {
+      "points": 2240,
+      "study": "28316",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/brit079-rwl-noaa.txt"
+    },
+    {
+      "points": 1722,
+      "study": "28317",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/brit080-rwl-noaa.txt"
+    },
+    {
+      "points": 2033,
+      "study": "28318",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/brit081-rwl-noaa.txt"
+    },
+    {
+      "points": 1192,
+      "study": "28319",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/brit082-rwl-noaa.txt"
+    },
+    {
+      "points": 360,
+      "study": "28323",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/brit086-rwl-noaa.txt"
+    },
+    {
+      "points": 13136,
+      "study": "28324",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/brit087-rwl-noaa.txt"
+    },
+    {
+      "points": 8654,
+      "study": "28330",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/brit093-rwl-noaa.txt"
+    },
+    {
+      "points": 4252,
+      "study": "28331",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/brit094-rwl-noaa.txt"
+    },
+    {
+      "points": 986,
+      "study": "28325",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/brit088-rwl-noaa.txt"
+    },
+    {
+      "points": 1634,
+      "study": "28332",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/brit095-rwl-noaa.txt"
+    },
+    {
+      "points": 2456,
+      "study": "2665",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/australia/newz052-rwl-noaa.txt"
+    },
+    {
+      "points": 2700,
+      "study": "8492",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/northamerica/usa/ma016-rwl-noaa.txt"
+    },
+    {
+      "points": 12413,
+      "study": "2666",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/swed312-rwl-noaa.txt"
+    },
+    {
+      "points": 9231,
+      "study": "2667",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/swed305-rwl-noaa.txt"
+    },
+    {
+      "points": 11131,
+      "study": "31993",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/swed339-rwl-noaa.txt"
+    },
+    {
+      "points": 3719,
+      "study": "31992",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/swed338-rwl-noaa.txt"
+    },
+    {
+      "points": 7146,
+      "study": "31834",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/swed337-rwl-noaa.txt"
+    },
+    {
+      "points": 9990,
+      "study": "31815",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/swed335-rwl-noaa.txt"
+    },
+    {
+      "points": 4490,
+      "study": "34254",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/swed346-rwl-noaa.txt"
+    },
+    {
+      "points": 3943,
+      "study": "2668",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/swed307-rwl-noaa.txt"
+    },
+    {
+      "points": 3771,
+      "study": "5498",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/swed313-rwl-noaa.txt"
+    },
+    {
+      "points": 13668,
+      "study": "31816",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/swed336-rwl-noaa.txt"
+    },
+    {
+      "points": 3135,
+      "study": "31813",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/norw017-rwl-noaa.txt"
+    },
+    {
+      "points": 4481,
+      "study": "31814",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/norw018-rwl-noaa.txt"
+    },
+    {
+      "points": 2218,
+      "study": "35554",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/asia/russ300-rwl-noaa.txt"
+    },
+    {
+      "points": 1407,
+      "study": "35580",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/asia/russ302-rwl-noaa.txt"
+    },
+    {
+      "points": 6601,
+      "study": "35579",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/asia/russ301-rwl-noaa.txt"
+    },
+    {
+      "points": 9572,
+      "study": "35577",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/asia/russ305-rwl-noaa.txt"
+    },
+    {
+      "points": 6313,
+      "study": "35573",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/asia/russ307-rwl-noaa.txt"
+    },
+    {
+      "points": 2831,
+      "study": "35574",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/asia/russ308-rwl-noaa.txt"
+    },
+    {
+      "points": 9040,
+      "study": "35597",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/asia/russ314-rwl-noaa.txt"
+    },
+    {
+      "points": 6724,
+      "study": "36077",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/asia/chn086-rwl-noaa.txt"
+    },
+    {
+      "points": 4613,
+      "study": "2669",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/brit6-rwl-noaa.txt"
+    },
+    {
+      "points": 1218,
+      "study": "2670",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/brit043-rwl-noaa.txt"
+    },
+    {
+      "points": 3417,
+      "study": "2671",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/brit044-rwl-noaa.txt"
+    },
+    {
+      "points": 1840,
+      "study": "2672",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/brit040-rwl-noaa.txt"
+    },
+    {
+      "points": 3114,
+      "study": "2673",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/brit008-rwl-noaa.txt"
+    },
+    {
+      "points": 2933,
+      "study": "2674",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/brit7-rwl-noaa.txt"
+    },
+    {
+      "points": 5720,
+      "study": "2675",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/brit042-rwl-noaa.txt"
+    },
+    {
+      "points": 339,
+      "study": "13994",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/northamerica/usa/vt012-rwl-noaa.txt"
+    },
+    {
+      "points": 876,
+      "study": "13995",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/northamerica/usa/vt013-rwl-noaa.txt"
+    },
+    {
+      "points": 795,
+      "study": "13991",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/northamerica/usa/vt009-rwl-noaa.txt"
+    },
+    {
+      "points": 33712,
+      "study": "22333",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/northamerica/usa/nm606-rwl-noaa.txt"
+    },
+    {
+      "points": 2301,
+      "study": "13992",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/northamerica/usa/vt010-rwl-noaa.txt"
+    },
+    {
+      "points": 888,
+      "study": "13993",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/northamerica/usa/vt011-rwl-noaa.txt"
+    },
+    {
+      "points": 222,
+      "study": "13996",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/northamerica/usa/vt014-rwl-noaa.txt"
+    },
+    {
+      "points": 2861,
+      "study": "13817",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/northamerica/usa/nc021-rwl-noaa.txt"
+    },
+    {
+      "points": 3431,
+      "study": "13816",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/northamerica/usa/nc020-rwl-noaa.txt"
+    },
+    {
+      "points": 6292,
+      "study": "13818",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/northamerica/usa/nc022-rwl-noaa.txt"
+    },
+    {
+      "points": 2836,
+      "study": "26250",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/northamerica/usa/wa149-rwl-noaa.txt"
+    },
+    {
+      "points": 0,
+      "study": "15028",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/northamerica/usa/al003-rwl-noaa.txt"
+    },
+    {
+      "points": 1084,
+      "study": "37450",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/asia/chn090-rwl-noaa.txt"
+    },
+    {
+      "points": 2049,
+      "study": "37449",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/asia/chn089-rwl-noaa.txt"
+    },
+    {
+      "points": 1466,
+      "study": "37451",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/asia/chn091-rwl-noaa.txt"
+    },
+    {
+      "points": 3407,
+      "study": "37448",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/asia/chn088-rwl-noaa.txt"
+    },
+    {
+      "points": 19600,
+      "study": "27970",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/northamerica/usa/ak169-rwl-noaa.txt"
+    },
+    {
+      "points": 14355,
+      "study": "27971",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/northamerica/usa/ak170-rwl-noaa.txt"
+    },
+    {
+      "points": 34000,
+      "study": "27972",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/northamerica/usa/ak171-rwl-noaa.txt"
+    },
+    {
+      "points": 2926,
+      "study": "27973",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/northamerica/usa/ak172-rwl-noaa.txt"
+    },
+    {
+      "points": 10590,
+      "study": "8493",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/northamerica/usa/ak090-rwl-noaa.txt"
+    },
+    {
+      "points": 0,
+      "study": "13713",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/northamerica/usa/ak120-rwl-noaa.txt"
+    },
+    {
+      "points": 25361,
+      "study": "8494",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/northamerica/usa/ak094-rwl-noaa.txt"
+    },
+    {
+      "points": 0,
+      "study": "27410",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/northamerica/usa/ak167-rwl-noaa.txt"
+    },
+    {
+      "points": 0,
+      "study": "27411",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/northamerica/usa/ak168-rwl-noaa.txt"
+    },
+    {
+      "points": 0,
+      "study": "13714",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/northamerica/usa/ak121-rwl-noaa.txt"
+    },
+    {
+      "points": 5128,
+      "study": "2676",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/northamerica/usa/nc5-rwl-noaa.txt"
+    },
+    {
+      "points": 4188,
+      "study": "2677",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/northamerica/usa/nc1-rwl-noaa.txt"
+    },
+    {
+      "points": 4073,
+      "study": "2678",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/northamerica/usa/nc2-rwl-noaa.txt"
+    },
+    {
+      "points": 3139,
+      "study": "2679",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/brit5-rwl-noaa.txt"
+    },
+    {
+      "points": 7275,
+      "study": "2680",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/northamerica/usa/nc4-rwl-noaa.txt"
+    },
+    {
+      "points": 1306,
+      "study": "2681",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/northamerica/usa/nc3-rwl-noaa.txt"
+    },
+    {
+      "points": 1710,
+      "study": "2682",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/northamerica/usa/nc11-rwl-noaa.txt"
+    },
+    {
+      "points": 2674,
+      "study": "2683",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/northamerica/usa/nc8-rwl-noaa.txt"
+    },
+    {
+      "points": 2391,
+      "study": "2684",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/northamerica/usa/nc7-rwl-noaa.txt"
+    },
+    {
+      "points": 2621,
+      "study": "2685",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/northamerica/usa/nc6-rwl-noaa.txt"
+    },
+    {
+      "points": 3791,
+      "study": "2686",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/northamerica/usa/nc10-rwl-noaa.txt"
+    },
+    {
+      "points": 8039,
+      "study": "2687",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/northamerica/usa/nc9-rwl-noaa.txt"
+    },
+    {
+      "points": 5985,
+      "study": "16484",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/northamerica/usa/ca680-rwl-noaa.txt"
+    },
+    {
+      "points": 4821,
+      "study": "2688",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/northamerica/usa/me033-rwl-noaa.txt"
+    },
+    {
+      "points": 1982,
+      "study": "2689",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/northamerica/usa/me034-rwl-noaa.txt"
+    },
+    {
+      "points": 1420,
+      "study": "2690",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/northamerica/usa/me035-rwl-noaa.txt"
+    },
+    {
+      "points": 819,
+      "study": "36022",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/africa/cmr001-rwl-noaa.txt"
+    },
+    {
+      "points": 2635,
+      "study": "36082",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/africa/cmr002-rwl-noaa.txt"
+    },
+    {
+      "points": 5448,
+      "study": "40484",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/africa/cmr003-rwl-noaa.txt"
+    },
+    {
+      "points": 5269,
+      "study": "41019",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/brit099-rwl-noaa.txt"
+    },
+    {
+      "points": 8988,
+      "study": "41020",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/brit100-rwl-noaa.txt"
+    },
+    {
+      "points": 9965,
+      "study": "2691",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/germ5-rwl-noaa.txt"
+    },
+    {
+      "points": 4192,
+      "study": "2692",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/germ301-rwl-noaa.txt"
+    },
+    {
+      "points": 3851,
+      "study": "2693",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/germ14-rwl-noaa.txt"
+    },
+    {
+      "points": 4943,
+      "study": "2694",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/germ4-rwl-noaa.txt"
+    },
+    {
+      "points": 1808,
+      "study": "2696",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/czec2-rwl-noaa.txt"
+    },
+    {
+      "points": 1983,
+      "study": "2697",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/czec3-rwl-noaa.txt"
+    },
+    {
+      "points": 1314,
+      "study": "2698",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/germ1-rwl-noaa.txt"
+    },
+    {
+      "points": 781,
+      "study": "2699",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/ital027-rwl-noaa.txt"
+    },
+    {
+      "points": 505,
+      "study": "2700",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/ital2-rwl-noaa.txt"
+    },
+    {
+      "points": 2738,
+      "study": "2701",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/germ12-rwl-noaa.txt"
+    },
+    {
+      "points": 2132,
+      "study": "2702",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/germ11-rwl-noaa.txt"
+    },
+    {
+      "points": 3050,
+      "study": "2703",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/germ3-rwl-noaa.txt"
+    },
+    {
+      "points": 1596,
+      "study": "2706",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/ital022-rwl-noaa.txt"
+    },
+    {
+      "points": 1359,
+      "study": "2707",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/germ15-rwl-noaa.txt"
+    },
+    {
+      "points": 1644,
+      "study": "2708",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/germ16-rwl-noaa.txt"
+    },
+    {
+      "points": 823,
+      "study": "2709",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/czec1-rwl-noaa.txt"
+    },
+    {
+      "points": 1536,
+      "study": "2711",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/germ016-rwl-noaa.txt"
+    },
+    {
+      "points": 2743,
+      "study": "2712",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/germ014-rwl-noaa.txt"
+    },
+    {
+      "points": 1181,
+      "study": "2713",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/germ17-rwl-noaa.txt"
+    },
+    {
+      "points": 882,
+      "study": "2714",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/ital1-rwl-noaa.txt"
+    },
+    {
+      "points": 652,
+      "study": "2715",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/germ18-rwl-noaa.txt"
+    },
+    {
+      "points": 3895,
+      "study": "2716",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/pola300-rwl-noaa.txt"
+    },
+    {
+      "points": 3439,
+      "study": "23052",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/northamerica/usa/ak156-rwl-noaa.txt"
+    },
+    {
+      "points": 3551,
+      "study": "23054",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/northamerica/usa/ak158-rwl-noaa.txt"
+    },
+    {
+      "points": 2018,
+      "study": "23053",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/northamerica/usa/ak157-rwl-noaa.txt"
+    },
+    {
+      "points": 8100,
+      "study": "5993",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/northamerica/usa/mt117-rwl-noaa.txt"
+    },
+    {
+      "points": 14685,
+      "study": "16811",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/northamerica/usa/ut534-rwl-noaa.txt"
+    },
+    {
+      "points": 76514,
+      "study": "32812",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/northamerica/usa/ut550-rwl-noaa.txt"
+    },
+    {
+      "points": 2247,
+      "study": "2718",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/northamerica/usa/ut523-rwl-noaa.txt"
+    },
+    {
+      "points": 22932,
+      "study": "19359",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/northamerica/usa/ut541-rwl-noaa.txt"
+    },
+    {
+      "points": 20968,
+      "study": "16810",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/northamerica/usa/ut533-rwl-noaa.txt"
+    },
+    {
+      "points": 3427,
+      "study": "2719",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/northamerica/usa/mo009-rwl-noaa.txt"
+    },
+    {
+      "points": 2778,
+      "study": "2720",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/northamerica/canada/cana197-rwl-noaa.txt"
+    },
+    {
+      "points": 3428,
+      "study": "2721",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/northamerica/canada/cana196-rwl-noaa.txt"
+    },
+    {
+      "points": 5146,
+      "study": "2722",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/northamerica/canada/cana198-rwl-noaa.txt"
+    },
+    {
+      "points": 3833,
+      "study": "2723",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/northamerica/canada/cana200-rwl-noaa.txt"
+    },
+    {
+      "points": 4755,
+      "study": "2724",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/northamerica/canada/cana199-rwl-noaa.txt"
+    },
+    {
+      "points": 2326,
+      "study": "2725",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/northamerica/canada/cana201-rwl-noaa.txt"
+    },
+    {
+      "points": 6855,
+      "study": "2726",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/northamerica/canada/cana202-rwl-noaa.txt"
+    },
+    {
+      "points": 2996,
+      "study": "2727",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/northamerica/canada/cana204-rwl-noaa.txt"
+    },
+    {
+      "points": 3802,
+      "study": "2728",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/northamerica/canada/cana203-rwl-noaa.txt"
+    },
+    {
+      "points": 3511,
+      "study": "2729",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/northamerica/canada/cana205-rwl-noaa.txt"
+    },
+    {
+      "points": 5695,
+      "study": "2730",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/northamerica/canada/cana206-rwl-noaa.txt"
+    },
+    {
+      "points": 3414,
+      "study": "2731",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/northamerica/canada/cana208-rwl-noaa.txt"
+    },
+    {
+      "points": 4197,
+      "study": "2732",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/northamerica/canada/cana207-rwl-noaa.txt"
+    },
+    {
+      "points": 5052,
+      "study": "20772",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/asia/pse001-rwl-noaa.txt"
+    },
+    {
+      "points": 3174,
+      "study": "20773",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/asia/pse002-rwl-noaa.txt"
+    },
+    {
+      "points": 1520,
+      "study": "2733",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/ital026-rwl-noaa.txt"
+    },
+    {
+      "points": 2171,
+      "study": "19263",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/fran048-rwl-noaa.txt"
+    },
+    {
+      "points": 115744,
+      "study": "2734",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/fran10-rwl-noaa.txt"
+    },
+    {
+      "points": 3410,
+      "study": "16485",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/northamerica/usa/ca681-rwl-noaa.txt"
+    },
+    {
+      "points": 3190,
+      "study": "16487",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/northamerica/usa/ca683-rwl-noaa.txt"
+    },
+    {
+      "points": 2970,
+      "study": "16488",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/northamerica/usa/ca684-rwl-noaa.txt"
+    },
+    {
+      "points": 3300,
+      "study": "16489",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/northamerica/usa/ca685-rwl-noaa.txt"
+    },
+    {
+      "points": 3068,
+      "study": "16486",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/northamerica/usa/ca682-rwl-noaa.txt"
+    },
+    {
+      "points": 1207,
+      "study": "5499",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/swit183-rwl-noaa.txt"
+    },
+    {
+      "points": 3682,
+      "study": "5500",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/swit182-rwl-noaa.txt"
+    },
+    {
+      "points": 2680,
+      "study": "6118",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/swit185-rwl-noaa.txt"
+    },
+    {
+      "points": 2379,
+      "study": "6119",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/swit186-rwl-noaa.txt"
+    },
+    {
+      "points": 2328,
+      "study": "2735",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/swit180-rwl-noaa.txt"
+    },
+    {
+      "points": 3618,
+      "study": "5501",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/northamerica/usa/co635-rwl-noaa.txt"
+    },
+    {
+      "points": 6382,
+      "study": "5502",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/northamerica/usa/co633-rwl-noaa.txt"
+    },
+    {
+      "points": 1914,
+      "study": "5503",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/northamerica/usa/co634-rwl-noaa.txt"
+    },
+    {
+      "points": 3182,
+      "study": "2736",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/swit181-rwl-noaa.txt"
+    },
+    {
+      "points": 2942,
+      "study": "2737",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/swit179-rwl-noaa.txt"
+    },
+    {
+      "points": 1661,
+      "study": "6120",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/swit187-rwl-noaa.txt"
+    },
+    {
+      "points": 3032,
+      "study": "14105",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/swit269-rwl-noaa.txt"
+    },
+    {
+      "points": 3573,
+      "study": "8495",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/swit189-rwl-noaa.txt"
+    },
+    {
+      "points": 4424,
+      "study": "16841",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/swit280-rwl-noaa.txt"
+    },
+    {
+      "points": 4993,
+      "study": "16840",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/swit279-rwl-noaa.txt"
+    },
+    {
+      "points": 2950,
+      "study": "8496",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/swit190-rwl-noaa.txt"
+    },
+    {
+      "points": 3539,
+      "study": "8497",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/swit191-rwl-noaa.txt"
+    },
+    {
+      "points": 3963,
+      "study": "16842",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/swit281-rwl-noaa.txt"
+    },
+    {
+      "points": 4027,
+      "study": "16843",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/swit282-rwl-noaa.txt"
+    },
+    {
+      "points": 3242,
+      "study": "5504",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/swit184-rwl-noaa.txt"
+    },
+    {
+      "points": 1681,
+      "study": "14106",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/swit270-rwl-noaa.txt"
+    },
+    {
+      "points": 4895,
+      "study": "6121",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/swit188-rwl-noaa.txt"
+    },
+    {
+      "points": 3763,
+      "study": "14108",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/swit272-rwl-noaa.txt"
+    },
+    {
+      "points": 2801,
+      "study": "14109",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/swit273-rwl-noaa.txt"
+    },
+    {
+      "points": 2675,
+      "study": "14110",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/swit274-rwl-noaa.txt"
+    },
+    {
+      "points": 4464,
+      "study": "14111",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/swit275-rwl-noaa.txt"
+    },
+    {
+      "points": 8711,
+      "study": "16844",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/swit283-rwl-noaa.txt"
+    },
+    {
+      "points": 2346,
+      "study": "14107",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/swit271-rwl-noaa.txt"
+    },
+    {
+      "points": 1792,
+      "study": "14112",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/swit276-rwl-noaa.txt"
+    },
+    {
+      "points": 4419,
+      "study": "8498",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/swit192-rwl-noaa.txt"
+    },
+    {
+      "points": 3721,
+      "study": "8499",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/swit193-rwl-noaa.txt"
+    },
+    {
+      "points": 3326,
+      "study": "2751",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/northamerica/usa/az509-rwl-noaa.txt"
+    },
+    {
+      "points": 2954,
+      "study": "2752",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/ital001-rwl-noaa.txt"
+    },
+    {
+      "points": 2460,
+      "study": "2753",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/ital004-rwl-noaa.txt"
+    },
+    {
+      "points": 5933,
+      "study": "2754",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/northamerica/usa/ca609-rwl-noaa.txt"
+    },
+    {
+      "points": 9615,
+      "study": "2755",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/northamerica/mexico/mexi020-rwl-noaa.txt"
+    },
+    {
+      "points": 3368,
+      "study": "2756",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/northamerica/mexico/mexi019-rwl-noaa.txt"
+    },
+    {
+      "points": 6025,
+      "study": "2757",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/northamerica/usa/ca610-rwl-noaa.txt"
+    },
+    {
+      "points": 16225,
+      "study": "2758",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/northamerica/mexico/mexi021-rwl-noaa.txt"
+    },
+    {
+      "points": 1733,
+      "study": "2759",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/ital002-rwl-noaa.txt"
+    },
+    {
+      "points": 1181,
+      "study": "2760",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/ital003-rwl-noaa.txt"
+    },
+    {
+      "points": 14082,
+      "study": "2761",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/northamerica/usa/id014-rwl-noaa.txt"
+    },
+    {
+      "points": 9209,
+      "study": "2762",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/northamerica/usa/ca613-rwl-noaa.txt"
+    },
+    {
+      "points": 3633,
+      "study": "2763",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/northamerica/usa/ca598-rwl-noaa.txt"
+    },
+    {
+      "points": 2184,
+      "study": "2764",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/northamerica/usa/ca599-rwl-noaa.txt"
+    },
+    {
+      "points": 1925,
+      "study": "2765",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/northamerica/usa/ca600-rwl-noaa.txt"
+    },
+    {
+      "points": 2606,
+      "study": "2766",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/northamerica/usa/ca601-rwl-noaa.txt"
+    },
+    {
+      "points": 2833,
+      "study": "32832",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/northamerica/canada/cana635-rwl-noaa.txt"
+    },
+    {
+      "points": 2086,
+      "study": "35075",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/northamerica/usa/ut552-rwl-noaa.txt"
+    },
+    {
+      "points": 1203,
+      "study": "35074",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/northamerica/usa/ut551-rwl-noaa.txt"
+    },
+    {
+      "points": 2605,
+      "study": "40659",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/northamerica/usa/ca743-rwl-noaa.txt"
+    },
+    {
+      "points": 4458,
+      "study": "31994",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/northamerica/usa/ut545-rwl-noaa.txt"
+    },
+    {
+      "points": 3158,
+      "study": "31995",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/northamerica/usa/ut546-rwl-noaa.txt"
+    },
+    {
+      "points": 4873,
+      "study": "31996",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/northamerica/usa/ut547-rwl-noaa.txt"
+    },
+    {
+      "points": 5570,
+      "study": "31997",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/northamerica/usa/ut548-rwl-noaa.txt"
+    },
+    {
+      "points": 9486,
+      "study": "38860",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/northamerica/usa/ut576-rwl-noaa.txt"
+    },
+    {
+      "points": 1377,
+      "study": "26790",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/northamerica/canada/cana558-rwl-noaa.txt"
+    },
+    {
+      "points": 2471,
+      "study": "26791",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/northamerica/canada/cana559-rwl-noaa.txt"
+    },
+    {
+      "points": 1473,
+      "study": "26792",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/northamerica/canada/cana560-rwl-noaa.txt"
+    },
+    {
+      "points": 2019,
+      "study": "26793",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/northamerica/canada/cana561-rwl-noaa.txt"
+    },
+    {
+      "points": 2012,
+      "study": "40660",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/northamerica/usa/ca744-rwl-noaa.txt"
+    },
+    {
+      "points": 7683,
+      "study": "35073",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/northamerica/canada/cana649-rwl-noaa.txt"
+    },
+    {
+      "points": 17990,
+      "study": "31053",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/northamerica/canada/cana611-rwl-noaa.txt"
+    },
+    {
+      "points": 1009,
+      "study": "43980",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/northamerica/usa/wi062-rwl-noaa.txt"
+    },
+    {
+      "points": 2581,
+      "study": "38659",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/northamerica/usa/ca729-rwl-noaa.txt"
+    },
+    {
+      "points": 14019,
+      "study": "35078",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/northamerica/usa/ut555-rwl-noaa.txt"
+    },
+    {
+      "points": 1054,
+      "study": "35077",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/northamerica/usa/ut554-rwl-noaa.txt"
+    },
+    {
+      "points": 3653,
+      "study": "35413",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/northamerica/usa/ut556-rwl-noaa.txt"
+    },
+    {
+      "points": 2053,
+      "study": "35076",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/northamerica/usa/ut553-rwl-noaa.txt"
+    },
+    {
+      "points": 1227,
+      "study": "43981",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/northamerica/usa/wi063-rwl-noaa.txt"
+    },
+    {
+      "points": 1131,
+      "study": "38221",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/northamerica/usa/or118-rwl-noaa.txt"
+    },
+    {
+      "points": 19923,
+      "study": "38212",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/northamerica/usa/or109-rwl-noaa.txt"
+    },
+    {
+      "points": 932,
+      "study": "38222",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/northamerica/usa/or119-rwl-noaa.txt"
+    },
+    {
+      "points": 6285,
+      "study": "38214",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/northamerica/usa/or111-rwl-noaa.txt"
+    },
+    {
+      "points": 885,
+      "study": "38223",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/northamerica/usa/or120-rwl-noaa.txt"
+    },
+    {
+      "points": 18489,
+      "study": "43943",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/northamerica/usa/wa171-rwl-noaa.txt"
+    },
+    {
+      "points": 1033,
+      "study": "38224",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/northamerica/usa/or121-rwl-noaa.txt"
+    },
+    {
+      "points": 831,
+      "study": "38225",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/northamerica/usa/or122-rwl-noaa.txt"
+    },
+    {
+      "points": 4815,
+      "study": "38205",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/northamerica/usa/wa157-rwl-noaa.txt"
+    },
+    {
+      "points": 668,
+      "study": "38226",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/northamerica/usa/or123-rwl-noaa.txt"
+    },
+    {
+      "points": 817,
+      "study": "38227",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/northamerica/usa/or124-rwl-noaa.txt"
+    },
+    {
+      "points": 1770,
+      "study": "38228",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/northamerica/usa/or125-rwl-noaa.txt"
+    },
+    {
+      "points": 688,
+      "study": "38206",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/northamerica/usa/wa158-rwl-noaa.txt"
+    },
+    {
+      "points": 15480,
+      "study": "38203",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/northamerica/usa/wa155-rwl-noaa.txt"
+    },
+    {
+      "points": 4814,
+      "study": "38211",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/northamerica/usa/or108-rwl-noaa.txt"
+    },
+    {
+      "points": 13643,
+      "study": "38210",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/northamerica/usa/or107-rwl-noaa.txt"
+    },
+    {
+      "points": 14873,
+      "study": "38219",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/northamerica/usa/or116-rwl-noaa.txt"
+    },
+    {
+      "points": 792,
+      "study": "38229",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/northamerica/usa/or126-rwl-noaa.txt"
+    },
+    {
+      "points": 1290,
+      "study": "38230",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/northamerica/usa/or127-rwl-noaa.txt"
+    },
+    {
+      "points": 1065,
+      "study": "38231",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/northamerica/usa/or128-rwl-noaa.txt"
+    },
+    {
+      "points": 325,
+      "study": "38208",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/northamerica/usa/wa160-rwl-noaa.txt"
+    },
+    {
+      "points": 11519,
+      "study": "38121",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/northamerica/usa/wy071-rwl-noaa.txt"
+    },
+    {
+      "points": 13227,
+      "study": "38122",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/northamerica/usa/wy072-rwl-noaa.txt"
+    },
+    {
+      "points": 0,
+      "study": "9965",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/southamerica/arge111-rwl-noaa.txt"
+    },
+    {
+      "points": 0,
+      "study": "9967",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/southamerica/arge113-rwl-noaa.txt"
+    },
+    {
+      "points": 0,
+      "study": "9964",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/southamerica/arge110-rwl-noaa.txt"
+    },
+    {
+      "points": 0,
+      "study": "9966",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/southamerica/arge112-rwl-noaa.txt"
+    },
+    {
+      "points": 5613,
+      "study": "2767",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/southamerica/arge022-rwl-noaa.txt"
+    },
+    {
+      "points": 3830,
+      "study": "2768",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/southamerica/arge066-rwl-noaa.txt"
+    },
+    {
+      "points": 2773,
+      "study": "2769",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/southamerica/arge031-rwl-noaa.txt"
+    },
+    {
+      "points": 2522,
+      "study": "2770",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/southamerica/arge026-rwl-noaa.txt"
+    },
+    {
+      "points": 2854,
+      "study": "2771",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/southamerica/arge028-rwl-noaa.txt"
+    },
+    {
+      "points": 4131,
+      "study": "2772",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/southamerica/arge047-rwl-noaa.txt"
+    },
+    {
+      "points": 4237,
+      "study": "2773",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/southamerica/arge036-rwl-noaa.txt"
+    },
+    {
+      "points": 9214,
+      "study": "2774",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/southamerica/arge033-rwl-noaa.txt"
+    },
+    {
+      "points": 4186,
+      "study": "2775",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/southamerica/arge040-rwl-noaa.txt"
+    },
+    {
+      "points": 10411,
+      "study": "2776",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/southamerica/arge034-rwl-noaa.txt"
+    },
+    {
+      "points": 11959,
+      "study": "2777",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/southamerica/arge043-rwl-noaa.txt"
+    },
+    {
+      "points": 4252,
+      "study": "2778",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/southamerica/arge046-rwl-noaa.txt"
+    },
+    {
+      "points": 6641,
+      "study": "2779",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/southamerica/arge038-rwl-noaa.txt"
+    },
+    {
+      "points": 2964,
+      "study": "2780",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/southamerica/arge052-rwl-noaa.txt"
+    },
+    {
+      "points": 4016,
+      "study": "2781",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/southamerica/arge051-rwl-noaa.txt"
+    },
+    {
+      "points": 21931,
+      "study": "2782",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/southamerica/arge030-rwl-noaa.txt"
+    },
+    {
+      "points": 4894,
+      "study": "2783",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/southamerica/arge055-rwl-noaa.txt"
+    },
+    {
+      "points": 6326,
+      "study": "2784",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/southamerica/arge059-rwl-noaa.txt"
+    },
+    {
+      "points": 6025,
+      "study": "2785",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/southamerica/arge060-rwl-noaa.txt"
+    },
+    {
+      "points": 6733,
+      "study": "2786",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/southamerica/arge061-rwl-noaa.txt"
+    },
+    {
+      "points": 7007,
+      "study": "2787",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/southamerica/arge062-rwl-noaa.txt"
+    },
+    {
+      "points": 2315,
+      "study": "36613",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/northamerica/canada/cana668-rwl-noaa.txt"
+    },
+    {
+      "points": 4364,
+      "study": "36604",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/northamerica/canada/cana659-rwl-noaa.txt"
+    },
+    {
+      "points": 3696,
+      "study": "36611",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/northamerica/canada/cana666-rwl-noaa.txt"
+    },
+    {
+      "points": 1308,
+      "study": "36612",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/northamerica/canada/cana667-rwl-noaa.txt"
+    },
+    {
+      "points": 2164,
+      "study": "36598",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/northamerica/canada/cana653-rwl-noaa.txt"
+    },
+    {
+      "points": 2160,
+      "study": "36607",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/northamerica/canada/cana662-rwl-noaa.txt"
+    },
+    {
+      "points": 4231,
+      "study": "36606",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/northamerica/canada/cana661-rwl-noaa.txt"
+    },
+    {
+      "points": 1836,
+      "study": "36608",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/northamerica/canada/cana663-rwl-noaa.txt"
+    },
+    {
+      "points": 1823,
+      "study": "36609",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/northamerica/canada/cana664-rwl-noaa.txt"
+    },
+    {
+      "points": 3258,
+      "study": "36610",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/northamerica/canada/cana665-rwl-noaa.txt"
+    },
+    {
+      "points": 3000,
+      "study": "36601",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/northamerica/canada/cana656-rwl-noaa.txt"
+    },
+    {
+      "points": 2480,
+      "study": "36602",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/northamerica/canada/cana657-rwl-noaa.txt"
+    },
+    {
+      "points": 3406,
+      "study": "36603",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/northamerica/canada/cana658-rwl-noaa.txt"
+    },
+    {
+      "points": 4428,
+      "study": "36617",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/northamerica/canada/cana672-rwl-noaa.txt"
+    },
+    {
+      "points": 3078,
+      "study": "36614",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/northamerica/canada/cana669-rwl-noaa.txt"
+    },
+    {
+      "points": 2433,
+      "study": "36605",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/northamerica/canada/cana660-rwl-noaa.txt"
+    },
+    {
+      "points": 1111,
+      "study": "36615",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/northamerica/canada/cana670-rwl-noaa.txt"
+    },
+    {
+      "points": 1250,
+      "study": "36616",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/northamerica/canada/cana671-rwl-noaa.txt"
+    },
+    {
+      "points": 1986,
+      "study": "36599",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/northamerica/canada/cana654-rwl-noaa.txt"
+    },
+    {
+      "points": 2312,
+      "study": "36600",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/northamerica/canada/cana655-rwl-noaa.txt"
+    },
+    {
+      "points": 1844,
+      "study": "2788",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/asia/indi019-rwl-noaa.txt"
+    },
+    {
+      "points": 2265,
+      "study": "2789",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/asia/indi018-rwl-noaa.txt"
+    },
+    {
+      "points": 7917,
+      "study": "2790",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/asia/indi017-rwl-noaa.txt"
+    },
+    {
+      "points": 3270,
+      "study": "2791",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/asia/indi020-rwl-noaa.txt"
+    },
+    {
+      "points": 3187,
+      "study": "2792",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/asia/indi021-rwl-noaa.txt"
+    },
+    {
+      "points": 8118,
+      "study": "15170",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/asia/indi024-rwl-noaa.txt"
+    },
+    {
+      "points": 4339,
+      "study": "2793",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/asia/indi010-rwl-noaa.txt"
+    },
+    {
+      "points": 3876,
+      "study": "2794",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/asia/indi012-rwl-noaa.txt"
+    },
+    {
+      "points": 6604,
+      "study": "2795",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/asia/indi013-rwl-noaa.txt"
+    },
+    {
+      "points": 3320,
+      "study": "15171",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/asia/indi025-rwl-noaa.txt"
+    },
+    {
+      "points": 4691,
+      "study": "2796",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/asia/indi015-rwl-noaa.txt"
+    },
+    {
+      "points": 4165,
+      "study": "2797",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/asia/indi014-rwl-noaa.txt"
+    },
+    {
+      "points": 2811,
+      "study": "2798",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/asia/indi016-rwl-noaa.txt"
+    },
+    {
+      "points": 3419,
+      "study": "2799",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/asia/indi011-rwl-noaa.txt"
+    },
+    {
+      "points": 0,
+      "study": "13938",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/australia/newz111-rwl-noaa.txt"
+    },
+    {
+      "points": 0,
+      "study": "13937",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/australia/newz110-rwl-noaa.txt"
+    },
+    {
+      "points": 0,
+      "study": "13941",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/australia/newz114-rwl-noaa.txt"
+    },
+    {
+      "points": 1251,
+      "study": "13908",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/australia/newz093-rwl-noaa.txt"
+    },
+    {
+      "points": 0,
+      "study": "13939",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/australia/newz112-rwl-noaa.txt"
+    },
+    {
+      "points": 0,
+      "study": "13940",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/australia/newz113-rwl-noaa.txt"
+    },
+    {
+      "points": 0,
+      "study": "13916",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/australia/newz101-rwl-noaa.txt"
+    },
+    {
+      "points": 0,
+      "study": "13930",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/australia/newz106-rwl-noaa.txt"
+    },
+    {
+      "points": 0,
+      "study": "13914",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/australia/newz099-rwl-noaa.txt"
+    },
+    {
+      "points": 218,
+      "study": "13910",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/australia/newz095-rwl-noaa.txt"
+    },
+    {
+      "points": 0,
+      "study": "13917",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/australia/newz102-rwl-noaa.txt"
+    },
+    {
+      "points": 0,
+      "study": "13911",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/australia/newz096-rwl-noaa.txt"
+    },
+    {
+      "points": 1080,
+      "study": "13909",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/australia/newz094-rwl-noaa.txt"
+    },
+    {
+      "points": 0,
+      "study": "13915",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/australia/newz100-rwl-noaa.txt"
+    },
+    {
+      "points": 0,
+      "study": "13913",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/australia/newz098-rwl-noaa.txt"
+    },
+    {
+      "points": 0,
+      "study": "13932",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/australia/newz107-rwl-noaa.txt"
+    },
+    {
+      "points": 0,
+      "study": "13912",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/australia/newz097-rwl-noaa.txt"
+    },
+    {
+      "points": 5320,
+      "study": "2800",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/brit039-rwl-noaa.txt"
+    },
+    {
+      "points": 3697,
+      "study": "2801",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/brit038-rwl-noaa.txt"
+    },
+    {
+      "points": 7738,
+      "study": "2802",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/brit037-rwl-noaa.txt"
+    },
+    {
+      "points": 4613,
+      "study": "2803",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/brit036-rwl-noaa.txt"
+    },
+    {
+      "points": 0,
+      "study": "13918",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/australia/newz103-rwl-noaa.txt"
+    },
+    {
+      "points": 0,
+      "study": "13933",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/australia/newz108-rwl-noaa.txt"
+    },
+    {
+      "points": 5388,
+      "study": "37385",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/northamerica/usa/ak201-rwl-noaa.txt"
+    },
+    {
+      "points": 1063,
+      "study": "32072",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/northamerica/usa/ak177-rwl-noaa.txt"
+    },
+    {
+      "points": 1591,
+      "study": "32073",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/northamerica/usa/ak178-rwl-noaa.txt"
+    },
+    {
+      "points": 1631,
+      "study": "32074",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/northamerica/usa/ak179-rwl-noaa.txt"
+    },
+    {
+      "points": 1991,
+      "study": "32075",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/northamerica/usa/ak180-rwl-noaa.txt"
+    },
+    {
+      "points": 1258,
+      "study": "32076",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/northamerica/usa/ak181-rwl-noaa.txt"
+    },
+    {
+      "points": 1708,
+      "study": "32077",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/northamerica/usa/ak182-rwl-noaa.txt"
+    },
+    {
+      "points": 1713,
+      "study": "32078",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/northamerica/usa/ak183-rwl-noaa.txt"
+    },
+    {
+      "points": 2075,
+      "study": "32079",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/northamerica/usa/ak184-rwl-noaa.txt"
+    },
+    {
+      "points": 1704,
+      "study": "2804",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/northamerica/usa/az071-rwl-noaa.txt"
+    },
+    {
+      "points": 2111,
+      "study": "2805",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/northamerica/usa/az069-rwl-noaa.txt"
+    },
+    {
+      "points": 2227,
+      "study": "2806",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/northamerica/usa/az072-rwl-noaa.txt"
+    },
+    {
+      "points": 4575,
+      "study": "23810",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/northamerica/usa/pa017-rwl-noaa.txt"
+    },
+    {
+      "points": 5216,
+      "study": "14928",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/asia/chin042-rwl-noaa.txt"
+    },
+    {
+      "points": 8601,
+      "study": "14929",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/asia/chin043-rwl-noaa.txt"
+    },
+    {
+      "points": 5636,
+      "study": "14948",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/asia/chin044-rwl-noaa.txt"
+    },
+    {
+      "points": 4106,
+      "study": "15048",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/asia/chin045-rwl-noaa.txt"
+    },
+    {
+      "points": 25896,
+      "study": "15128",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/asia/chin046-rwl-noaa.txt"
+    },
+    {
+      "points": 9854,
+      "study": "15129",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/asia/chin047-rwl-noaa.txt"
+    },
+    {
+      "points": 25837,
+      "study": "15130",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/asia/chin048-rwl-noaa.txt"
+    },
+    {
+      "points": 7903,
+      "study": "15131",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/asia/chin049-rwl-noaa.txt"
+    },
+    {
+      "points": 4392,
+      "study": "2807",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/germ019-rwl-noaa.txt"
+    },
+    {
+      "points": 9787,
+      "study": "33792",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/northamerica/usa/az605-rwl-noaa.txt"
+    },
+    {
+      "points": 11598,
+      "study": "33793",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/northamerica/usa/az606-rwl-noaa.txt"
+    },
+    {
+      "points": 5444,
+      "study": "33796",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/northamerica/usa/az609-rwl-noaa.txt"
+    },
+    {
+      "points": 14348,
+      "study": "33795",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/northamerica/usa/az608-rwl-noaa.txt"
+    },
+    {
+      "points": 2813,
+      "study": "33794",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/northamerica/usa/az607-rwl-noaa.txt"
+    },
+    {
+      "points": 0,
+      "study": "13928",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/australia/newz104-rwl-noaa.txt"
+    },
+    {
+      "points": 581,
+      "study": "40504",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/northamerica/mexico/mex122-rwl-noaa.txt"
+    },
+    {
+      "points": 5832,
+      "study": "36015",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/southamerica/bol018-rwl-noaa.txt"
+    },
+    {
+      "points": 2395,
+      "study": "40441",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/southamerica/bol022-rwl-noaa.txt"
+    },
+    {
+      "points": 1550,
+      "study": "40442",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/southamerica/bol023-rwl-noaa.txt"
+    },
+    {
+      "points": 7575,
+      "study": "2808",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/northamerica/canada/cana113-rwl-noaa.txt"
+    },
+    {
+      "points": 7687,
+      "study": "2809",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/northamerica/usa/az554-rwl-noaa.txt"
+    },
+    {
+      "points": 7884,
+      "study": "2810",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/northamerica/usa/or043-rwl-noaa.txt"
     }
   ]
 }

@@ -62,3 +62,16 @@ latewood width files when pure ring-width files are not available.
 Region summaries use the NOAA `locationName` path. The default `--region-level 2`
 turns a location such as `Continent>Europe>Western Europe>Switzerland` into
 `Western Europe`.
+
+## Visualizations
+
+After aggregate CSVs have been written, generate a separate HTML dashboard with:
+
+```powershell
+python .\visualize_tree_ring_aggregates.py --input-dir .\tree_ring_outputs --output-dir .\tree_ring_visualizations
+```
+
+Open `tree_ring_visualizations\index.html` in a browser to view annual,
+decadal, and regional SVG charts. The visualization script is intentionally not
+called by `tree_ring_summary.py`, so data collection and chart generation can be
+run independently.
