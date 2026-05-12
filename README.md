@@ -65,13 +65,17 @@ turns a location such as `Continent>Europe>Western Europe>Switzerland` into
 
 ## Visualizations
 
-After aggregate CSVs have been written, generate a separate HTML dashboard with:
+After aggregate CSVs have been written, install Plotly and pandas, then generate a separate
+interactive HTML dashboard with:
 
 ```powershell
+python -m pip install plotly pandas
 python .\visualize_tree_ring_aggregates.py --input-dir .\tree_ring_outputs --output-dir .\tree_ring_visualizations
 ```
 
 Open `tree_ring_visualizations\index.html` in a browser to view annual,
-decadal, and regional SVG charts. The visualization script is intentionally not
-called by `tree_ring_summary.py`, so data collection and chart generation can be
-run independently.
+decadal, and regional Plotly charts. The charts support pan, wheel zoom, box
+zoom, reset, year or decade range sliders, and legend-based region visibility
+on the regional graphs. The visualization script is intentionally not called by
+`tree_ring_summary.py`, so data collection and chart generation can be run
+independently.
